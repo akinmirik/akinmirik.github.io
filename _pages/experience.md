@@ -1,31 +1,9 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Experience"
+permalink: /experience/
 author_profile: true
-redirect_from:
-  - /resume
 ---
-
-{% include base_path %}
-
-**Akın Mırık**  
-Istanbul, Turkey | +90 532 382 7646  
-Email: [mirikakin@gmail.com](mailto:mirikakin@gmail.com) | LinkedIn: [linkedin.com/in/akin-mirik/](https://linkedin.com/in/akin-mirik/)
-
-## Education
-
-**Istanbul Technical University | Istanbul, Turkey**  
-*Bachelor's degree, Electronics and Communications Engineering*  
-Sep 2022 - Jun 2027 | GPA: 3.26/4.0
-
-**Istanbul Technical University | Istanbul, Turkey**  
-*Bachelor's degree, Management Engineering (Double Major)*  
-Sep 2023 - Jun 2027 | GPA: 3.21/4.0
-
-**Technische Universität Wien | Vienna, Austria**  
-*Erasmus Exchange Program*  
-Mar 2025 - Jul 2025 | SGPA: 3.34/4.0
 
 ## Work Experience
 
@@ -70,24 +48,3 @@ Mar 2025 - Jul 2025 | SGPA: 3.34/4.0
 **IEEE ITU Student Branch | Istanbul, Turkey**  
 *Computer Society Committee Event Team Assistant | Oct 2022 - Jun 2023*
 *   Organized engineering/AI events like CSWAY, boosting the student branch's network.
-
-## Skills
-
-*   **Programming:** Python (Data Science & AI), MATLAB, C.
-*   **Engineering:** ROS2, Gazebo, Linux (Ubuntu), RF Systems, Systems Engineering, Tactical Data Links.
-*   **Tools:** LTspice, Adobe Creative Cloud, MS Office.
-*   **Soft Skills:** Analytical Thinking, Problem Solving, Teamwork, Presentation & Communication.
-*   **Languages:** Turkish (Native), English (C1), German (B1).
-
-## Certifications
-
-*   **B1.1-INTENSIV DEUTSCHKURS** | Technische Universität Wien (Apr 2025)
-*   **Machine Learning Specialization** | Stanford University (Aug 2025)
-*   **Python for Data Science, AI & Development** | IBM (Sep 2025)
-*   **Creating Knowledge Based Chatbot with Amazon Q** | ITU AI Center (Sep 2025)
-*   **Self-Driving Car Specialization Course** | Packt (Mar 2025)
-*   **CS Bridge Program, 2021** | Stanford University (Aug 2021)
-*   **Job Simulation Certificate: Brisa** | Ludi (Feb 2025)
-*   **BAT Türkiye - Marketing & Sales Academy** | Youthall (Nov 2025)
-*   **anbean İnsan Kaynakları Okulu** | anbean (Nov 2025)
-*   **DiscoverEU Erasmus+** | European Commission (Sep 2023)
