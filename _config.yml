@@ -23,7 +23,7 @@ repository               : "akinmirik/akinmirik.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_v2.png"
   name             : "Akın Mırık"
   pronouns         : # example: "she/her"  
   bio              : "ITU Electronics and Communcation Engineering & Management Engineering Student"
